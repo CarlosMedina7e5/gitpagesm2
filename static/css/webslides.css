@@ -3760,7 +3760,7 @@ Slides (Counter/Arrows)
 ============================== */
 #counter,
 #navigation a {
-  color: #abc; }
+  color: rgba(66, 176, 219, 0.931); }
 
 #webslides:hover #navigation a:hover {
   background-color: rgba(0, 10, 40, 0.8);
@@ -3770,7 +3770,7 @@ Slides (Counter/Arrows)
 Footer
 ============================== */
 footer[role='contentinfo'] {
-  background-color: #fff; }
+  background-color: rgba(66, 176, 219, 0.931); }
 
 /*============================
 Slides Index
